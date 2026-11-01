@@ -399,7 +399,7 @@ const COURSE = {
               note: "曲式就是樂曲的結構，例如 A、B 兩部分怎樣排列。",
             },
           ],
-          keypoint: "唱名 d r m f s l t 用來唱準音高；ostinato 是重複的短音型，用來說伴奏。",
+          keypoint: "唱名 d r m f s l t 用來唱準音高；ostinato 是重複的短音型，用來做伴奏。",
           figures: [
             {
               src: "assets/media/u2l1-yankeedoodle.webp",
@@ -709,13 +709,13 @@ const COURSE = {
               type: "mcq",
               q: "《一閃一閃小星星》的旋律來自哪裡？",
               options: [
-                "法國民謠《媽媽請聽我說明》",
+                "法國民謠《媽媽請聽我說》",
                 "德國搖籃曲",
                 "英格蘭民謠《綠袖子》",
                 "美國歌曲《Yankee Doodle》",
               ],
               answer: 0,
-              explain: "旋律出自法國民謠《媽媽請聽我說明》，歌詞來自珍·泰勒的英文詩《小星星》。",
+              explain: "旋律出自法國民謠《媽媽請聽我說》，歌詞來自珍·泰勒的英文詩《小星星》。",
             },
             {
               type: "order",
